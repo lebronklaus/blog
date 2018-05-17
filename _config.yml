@@ -4,14 +4,14 @@ SEOTitle: xiuhao | Blog
 header-img: img/professor.jpg
 email: xiuhao.yan@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, xiuhao的博客, xiuhao.yan, iOS, Apple, iPhone"
+keyword: "xiuhao的博客, xiuhao.yan,JAVA, Spring"
 url: "http://lebronklaus.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lebronklaus/lebronklaus.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "what r u look 4!"
+sidebar-about-description: "Thank you, Arsene!"
 sidebar-avatar: /img/arsene.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
